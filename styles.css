@@ -1,3 +1,29 @@
+
+
+
+
+.display-block{
+    display: block;
+    background: #e3746590;
+}
+
+.display-inline{
+    display: inline;
+    background: #f6b607c2;
+}
+
+.display-inline-block{
+    display: inline-block;
+    background: #fffb08;
+}
+
+.display-none{
+    display: none;
+}
+
+
+
+
 footer {
     background: #e35f27;
     padding: 15px;
